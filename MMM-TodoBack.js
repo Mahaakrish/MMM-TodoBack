@@ -10,8 +10,8 @@
 Module.register("MMM-TodoBack", {
 	defaults: {
 		updateInterval: 1000*60*15,//every 15 mins
-		appID: "gh9s6jq6ULpyAktoah2WDxZ8Pl1mihiGaGJBrA6s",
-		jsKey: "U63n57AzLvhdkac7LPtukNdM1vOqAAHWb1KE1u3J",
+		appID: "",
+		jsKey: "",
 		pURL: "https://parseapi.back4app.com/"
 	},
 
