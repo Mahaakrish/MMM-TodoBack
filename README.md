@@ -17,6 +17,7 @@ var config = {
     modules: [
         {
             module: 'MMM-TodoBack',
+	    position: 'top_left',
             config: {
                 updateInterval: 1000 * 15,//Refresh every 15 seconds
 		appID: "YOUR_B4A_APPID",//Use your appID from Back4App 
